@@ -10,4 +10,4 @@ You can find his post in this link : https://medium.com/@alexander.mueller/exper
 I've added additional functions for nearest site and nearest lat longs. 
 
 ## Who should use this
-If you work with alot of geospatial data, which requires querying coordinates to get nearest or withing radius geospatial events. 
+If you work with alot of geospatial data, which requires querying coordinates to get nearest or within radius geospatial events. 
